@@ -6,7 +6,7 @@
  * @return {Number} sum
  */
 function _sumFibs( maxFibValue ) {
-  var sum = 0;
+  let sum = 0;
 
   // do your work here
 
@@ -15,7 +15,7 @@ function _sumFibs( maxFibValue ) {
 
 // bonus round
 function _highestFibonacciNumber (maxFibValue){
-  var highest = 0;
+  let highest = 0;
 
   //define your base case, validate your input
 
